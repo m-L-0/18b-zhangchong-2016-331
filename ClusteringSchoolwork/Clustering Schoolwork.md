@@ -102,7 +102,7 @@ plt.show()
 
 ```
 
-![](.\image\聚类.png)
+![](./image/聚类.png)
 
 #### 图表示
 
@@ -138,7 +138,7 @@ plt.axis('off')
 plt.show()
 ```
 
-![](.\image\图表示.png)
+![](./image/图表示.png)
 
 #### 计算正确率
 
@@ -194,7 +194,7 @@ if __name__ == '__main__':
 
 ```
 
-![](.\image\正确率.png)
+![](./image/正确率.png)
 
 ## 3.细节描述
 
