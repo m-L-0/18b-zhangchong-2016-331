@@ -41,7 +41,7 @@ accuracy = 0.
 init = tf.global_variables_initializer()
 ```
 
-![](C:\Users\lenovo\Desktop\github\18b-zhangchong-2016-331\Tensorflow Schoolwork\image\splitresult.png)
+![](.\image\splitresult.png)
 
  					分割成果
 
@@ -69,9 +69,9 @@ with tf.Session() as sess:
 
 ```
 
-![](C:\Users\lenovo\Desktop\github\18b-zhangchong-2016-331\Tensorflow Schoolwork\image\finalresult.png)
+![](.\image\finalresult.png)
 
-​				最终训练结果正确率
+				最终训练结果正确率
 
 
 
