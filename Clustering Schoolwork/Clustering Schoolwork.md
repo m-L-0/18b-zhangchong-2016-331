@@ -102,7 +102,7 @@ plt.show()
 
 ```
 
-![](C:\Users\lenovo\Desktop\QQ截图20181125165008.png)
+![](C:\Users\lenovo\Desktop\github\18b-zhangchong-2016-331\Clustering Schoolwork\image\聚类.png)
 
 #### 图表示
 
@@ -138,7 +138,7 @@ plt.axis('off')
 plt.show()
 ```
 
-![](C:\Users\lenovo\Desktop\QQ截图20181125170116.png)
+![](C:\Users\lenovo\Desktop\github\18b-zhangchong-2016-331\Clustering Schoolwork\image\图表示.png)
 
 #### 计算正确率
 
@@ -194,7 +194,7 @@ if __name__ == '__main__':
 
 ```
 
-![](C:\Users\lenovo\Desktop\QQ截图20181125165449.png)
+![](C:\Users\lenovo\Desktop\github\18b-zhangchong-2016-331\Clustering Schoolwork\image\正确率.png)
 
 ## 3.细节描述
 
@@ -214,6 +214,6 @@ if __name__ == '__main__':
 
 ### 4.问题
 
-画聚类图效果较差数据太多成团了不会详细调成那种透明的
+画聚类图效果较差数据太多，成团了不会详细调成那种透明的
 
 ## 张冲 2016011331
